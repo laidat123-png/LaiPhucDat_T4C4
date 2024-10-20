@@ -16,11 +16,11 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [the University of Foreign Language and Information technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :school: I am a `Junior` at [the University of Foreign Language and Information technology](https://huflit.edu.vn/)
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
 - :technologist: **Currently working on** `Frontend Development`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:laiphucdat2004@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Laidat&amp;color=EA4335&amp;style=flat-square)](mailto:laiphucdat2004@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
